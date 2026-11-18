@@ -2,10 +2,10 @@
 
 - Họ và tên: Hồ Xuân Hùng
 - MSHV: 2A202603062
-- Lớp (L2 / L3 / khác): chưa cung cấp
-- Tài khoản GitHub: chưa cung cấp
-- Repo bài nộp (URL): chưa cung cấp
-- Commit chốt bài (hash): chưa chốt
+- Lớp (L2 / L3 / khác): L2
+- Tài khoản GitHub: [Hiung0703](https://github.com/Hiung0703)
+- Repo bài nộp (URL): [K5-L23-Day08-HoXuanHung-2A202603062-AI-Assisted-Labeling](https://github.com/Hiung0703/K5-L23-Day08-HoXuanHung-2A202603062-AI-Assisted-Labeling.git)
+- Commit chốt bài (hash): `57d24ceac23f787f569a319300e66689294dbc78`
 - Máy: Windows, NVIDIA GeForce RTX 3060 Laptop GPU, CUDA hoạt động
 - CVAT (Docker): server v2.81.0
 
